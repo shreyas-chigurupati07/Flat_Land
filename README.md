@@ -20,12 +20,11 @@ The project includes performance analysis across different obstacle densities, i
 
 ### Path found by DFS
 ![Screenshot 2023-09-17 at 9 42 47 PM](https://github.com/shreyas-chigurupati07/Flat_Land/assets/84034817/72ec2dc1-4fca-406b-ae85-f2338341193b)
-### Path found by DFS
+### Path found by BFS
 ![Screenshot 2023-09-17 at 9 54 14 PM](https://github.com/shreyas-chigurupati07/Flat_Land/assets/84034817/23839634-525d-489b-be8a-98aa3ef013c3)
-### Path found by DFS
+### Path found by Dijkstra
 ![Screenshot 2023-09-17 at 9 54 25 PM](https://github.com/shreyas-chigurupati07/Flat_Land/assets/84034817/9ffc7351-8aeb-4f23-a2be-a8bbf470324b)
-### Path found by DFS
-![Screenshot 2023-09-17 at 10 04 04 PM](https://github.com/shreyas-chigurupati07/Flat_Land/assets/84034817/72723ada-cc3c-425b-b6e6-7a650eaed454)
+
 
 ## Dependencies
 
