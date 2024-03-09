@@ -18,11 +18,6 @@ The goal is to navigate a point robot from the top left to the bottom right corn
 
 The project includes performance analysis across different obstacle densities, illustrating how each algorithm copes with increasing complexity in the environment.
 
-<p float="left">
-  <img src="![Screenshot 2023-09-17 at 9 42 47 PM](https://github.com/shreyas-chigurupati07/Flat_Land/assets/84034817/72ec2dc1-4fca-406b-ae85-f2338341193b)" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
-</p>
 ### Path found by DFS
 ![Screenshot 2023-09-17 at 9 42 47 PM](https://github.com/shreyas-chigurupati07/Flat_Land/assets/84034817/72ec2dc1-4fca-406b-ae85-f2338341193b)
 ### Path found by DFS
